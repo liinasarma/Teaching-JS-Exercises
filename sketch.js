@@ -12,13 +12,13 @@ background(249, 236, 242);
 function draw(){
 
 
-point(mouseX, mouseY);
-
-for(let i = 0; i<windowWidth; i+=5){
-
-strokeWeight(0.5);
-stroke(153);
-line(0, i, 500, i);
-
-}
+// point(mouseX, mouseY);
+//
+// for(let i = 0; i<windowWidth; i+=5){
+//
+// strokeWeight(0.5);
+// stroke(153);
+// line(0, i, 500, i);
+//
+// }
 }
